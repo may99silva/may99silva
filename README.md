@@ -19,6 +19,4 @@ Oiii, Mayara aqui👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=may99silva&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=may99silva&repo=tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
